@@ -1,4 +1,4 @@
-# 📝 Entrega do Exercício 01 - Programação Web
+# 📝 Entrega do Exercício 02 - Programação Web
 
 - **Aluno:** [ Ryan Cascaes Viana]
 - **Turma:** [ 101/int ]
